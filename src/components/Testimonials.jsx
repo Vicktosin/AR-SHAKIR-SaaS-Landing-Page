@@ -1,9 +1,9 @@
 import React from 'react';
 import blueCircle from '../assets/Ellipse 41.svg';
 import starRating from '../assets/Shape.svg';
-import profileImg1 from '../assets/image@2x.png';
+import profileImg1 from '../assets/Image@2x.png';
 import profileImg2 from '../assets/image1@2x.png';
-import profileImg3 from '../assets/image3@2x.png';
+import profileImg3 from '../assets/Image3@2x.png';
 import profileImg4 from '../assets/Ellipse 9@2x.png';
 
 const Testimonials = () => {
